@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+public class main {
+  public static void main(String[] args){
+      Student student =new Student();
+      
