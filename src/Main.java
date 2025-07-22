@@ -11,7 +11,7 @@ public class Main {
         student.displayDetails();
     }
 }
-public class Student {
+class Student {
     String name;
     int rollNumber;
     char grade;
